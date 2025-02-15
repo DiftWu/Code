@@ -10,8 +10,8 @@ public class CharacterStats : MonoBehaviour
     public int maxExperience = 5;
     public int maxExperienceCap = 2000;
     public int attack = 1;
-    public int maxHealth = 10;
-    public int currentHealth = 10;
+    public int maxHealth = 20;
+    public int currentHealth = 20;
     public int defense = 5;
     public float moveSpeed = 5f;
 

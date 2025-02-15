@@ -19,7 +19,7 @@ public class SceneSwitcher : MonoBehaviour
     }
 
     // 切换场景的方法
-    void SwitchScene()
+    public void SwitchScene()
     {
         // 使用场景名称切换场景
         SceneManager.LoadScene(targetSceneName);

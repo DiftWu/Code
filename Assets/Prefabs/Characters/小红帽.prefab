@@ -1264,8 +1264,8 @@ MonoBehaviour:
   maxExperience: 5
   maxExperienceCap: 2000
   attack: 1
-  maxHealth: 10
-  currentHealth: 10
+  maxHealth: 20
+  currentHealth: 20
   defense: 5
   moveSpeed: 5
   weaponNames:

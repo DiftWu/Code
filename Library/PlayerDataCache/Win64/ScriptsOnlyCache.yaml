@@ -13,6 +13,7 @@ ScriptsOnlyBuild:
     - FollowPlayer
     - GameSceneController
     - GameTimer
+    - PauseMenu
     - PlayerMovement
     - PlayerShooting
     - PlayerUI
@@ -81,9 +82,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2978}
     - Class: 114
-      Script: {instanceID: 4472}
+      Script: {instanceID: 4474}
     - Class: 114
-      Script: {instanceID: 4874}
+      Script: {instanceID: 4876}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -140,7 +141,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3080}
     - Class: 114
-      Script: {instanceID: 4874}
+      Script: {instanceID: 4876}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -191,7 +192,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3080}
     - Class: 114
-      Script: {instanceID: 5002}
+      Script: {instanceID: 5004}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -236,6 +237,10 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1436}
     - Class: 114
+      Script: {instanceID: 1488}
+    - Class: 114
+      Script: {instanceID: 1512}
+    - Class: 114
       Script: {instanceID: 1930}
     - Class: 114
       Script: {instanceID: 1980}
@@ -248,29 +253,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2454}
     - Class: 114
+      Script: {instanceID: 2600}
+    - Class: 114
+      Script: {instanceID: 2978}
+    - Class: 114
+      Script: {instanceID: 3080}
+    - Class: 114
       Script: {instanceID: 3396}
     - Class: 114
       Script: {instanceID: 3546}
     - Class: 114
-      Script: {instanceID: 4424}
+      Script: {instanceID: 3738}
     - Class: 114
-      Script: {instanceID: 4472}
+      Script: {instanceID: 4426}
     - Class: 114
-      Script: {instanceID: 4560}
+      Script: {instanceID: 4474}
     - Class: 114
-      Script: {instanceID: 4636}
+      Script: {instanceID: 4562}
     - Class: 114
-      Script: {instanceID: 4664}
+      Script: {instanceID: 4638}
     - Class: 114
-      Script: {instanceID: 4678}
+      Script: {instanceID: 4666}
     - Class: 114
-      Script: {instanceID: 4700}
+      Script: {instanceID: 4680}
     - Class: 114
-      Script: {instanceID: 4720}
+      Script: {instanceID: 4702}
     - Class: 114
-      Script: {instanceID: 4874}
+      Script: {instanceID: 4722}
     - Class: 114
-      Script: {instanceID: 4910}
+      Script: {instanceID: 4876}
+    - Class: 114
+      Script: {instanceID: 4912}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -317,7 +330,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2978}
     - Class: 114
-      Script: {instanceID: 4472}
+      Script: {instanceID: 4474}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -735,6 +748,12 @@ ScriptsOnlyBuild:
     className: EventTrigger
   - hash:
       serializedVersion: 2
+      Hash: c8c5e65e9fb858572516474d6e2102bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PauseMenu
+  - hash:
+      serializedVersion: 2
       Hash: 87cef3c82381dc586f6772c3e27561b6
     assemblyName: Unity.2D.Animation.Runtime.dll
     namespaceName: UnityEngine.Experimental.U2D.Animation
@@ -968,4 +987,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Choose.unity
   - Assets/Scenes/Game.unity
   - Assets/Scenes/GameOver.unity
-  playerPath: C:/WORK/Game project/Final/MOG/Exe/MOG.exe
+  playerPath: C:/WORK/Game_project/Final/Exe/MOG.exe

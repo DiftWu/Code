@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 108
+  controlID: 115
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 109
+  controlID: 116
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 110
+  controlID: 117
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -327,8 +327,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -602.5
     m_HBaseRangeMax: 602.5
-    m_VBaseRangeMin: -317
-    m_VBaseRangeMax: 317
+    m_VBaseRangeMin: -327.5
+    m_VBaseRangeMax: 327.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -345,11 +345,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1205
-      height: 634
+      height: 655
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 602.5, y: 317}
+    m_Translation: {x: 602.5, y: 327.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -357,9 +357,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -602.5
-      y: -317
+      y: -327.5
       width: 1205
-      height: 634
+      height: 655
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1205, y: 655}
@@ -398,21 +398,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a48affffbe8affffc08affffc48affffc88affffcc8affffd08affff408bffff5a8bffff5c8bffff608bffff648bffff688bffff6c8bffff929fffffda9ffffff29fffffdca0fffffca0ffff1aa1ffff38a1ffff5ca1ffffecd5ffff04d6ffff06d6ffff0ad6ffff0ed6ffff12d6ffff16d6ffff74d6ffff8cd6ffff38d7ffff88d7ffffa0d7ffffa2d7ffffa6d7ffffaad7ffffaed7ffffb2d7ffff56d8ffffc0d9ffffdad9ffffa8daffffaedaffffb2daffffb6daffffd2daffff40fbffff
+      m_ExpandedIDs: fefaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Main Camera
-        m_OriginalName: Main Camera
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 22896
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -458,9 +458,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.216955, y: -0.45621717, z: -11.586229}
+    m_Target: {x: -1.2021453, y: -0.6302779, z: -0.13456821}
     speed: 2
-    m_Value: {x: 611.13605, y: 313.5, z: -9}
+    m_Value: {x: -1.2021453, y: -0.6302779, z: -0.13456821}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -511,9 +511,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.814381
+    m_Target: 8.317896
     speed: 2
-    m_Value: 701.4323
+    m_Value: 8.317896
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -584,14 +584,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Prefabs/Characters
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\WORK\Game project\Final\MOG
+  m_LastProjectPath: C:\WORK\Game_project\Final\MOG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 110}
-    m_SelectedIDs: 80400000
-    m_LastClickedID: 16512
-    m_ExpandedIDs: 000000006c4000006e40000070400000724000007c40000000ca9a3b
+    scrollPos: {x: 0, y: 14}
+    m_SelectedIDs: 3c440000
+    m_LastClickedID: 17468
+    m_ExpandedIDs: 00000000284400002a4400002c4400002e44000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -619,7 +619,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006c4000006e4000007040000072400000
+    m_ExpandedIDs: 00000000284400002a4400002c4400002e440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
